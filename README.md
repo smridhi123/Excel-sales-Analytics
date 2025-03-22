@@ -1,1 +1,1 @@
-# Excel-sales-Analyti
+# Excel-sales-Analytic
